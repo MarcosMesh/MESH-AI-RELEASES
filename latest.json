@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "0.1.5",
-  "apkUrl": "https://raw.githubusercontent.com/MarcosMesh/MESH-AI-RELEASES/main/releases/0.1.5/mesh-ai-0.1.5.apk",
-  "sha256": "203fa240f44f3e8e89f44e0f6d155ffae1448e9de24f68b056d2c1443177475e",
-  "releaseNotes": "build: upgrade Kotlin for LiteRT-LM compatibility",
+  "versionCode": 7,
+  "versionName": "0.1.6",
+  "apkUrl": "https://raw.githubusercontent.com/MarcosMesh/MESH-AI-RELEASES/main/releases/0.1.6/mesh-ai-0.1.6.apk",
+  "sha256": "26cb6aef1d34e065a2b8ebea6b33e2b9c4c37e21fc88ae5040f769f5d6ac8929",
+  "releaseNotes": "feat(ai): add resumable Gemma 4 E2B model downloader",
   "minSupportedVersionCode": 1
 }
