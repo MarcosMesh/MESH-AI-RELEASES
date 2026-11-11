@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "0.1.7",
-  "apkUrl": "https://raw.githubusercontent.com/MarcosMesh/MESH-AI-RELEASES/main/releases/0.1.7/mesh-ai-0.1.7.apk",
-  "sha256": "cabb377b055fe32754685def5d5a8170bd78546a8fee8b1ad20baab1133448c3",
-  "releaseNotes": "feat(ai): add Gemma model setup and download dialog",
+  "versionCode": 9,
+  "versionName": "0.1.8",
+  "apkUrl": "https://raw.githubusercontent.com/MarcosMesh/MESH-AI-RELEASES/main/releases/0.1.8/mesh-ai-0.1.8.apk",
+  "sha256": "4f5d2ea12af9d762e9c9c61b3bf9fdfbaf8209331fad4d9d26f7d3d7155fe0e3",
+  "releaseNotes": "docs: define offline-first architecture and voice requirements",
   "minSupportedVersionCode": 1
 }
