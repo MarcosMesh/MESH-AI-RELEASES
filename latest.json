@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "0.1.4",
-  "apkUrl": "https://raw.githubusercontent.com/MarcosMesh/MESH-AI-RELEASES/main/releases/0.1.4/mesh-ai-0.1.4.apk",
-  "sha256": "a17c44516e886fe163e0db2a1577589b79339700fd0cb4dad6aec3b8aeef125a",
-  "releaseNotes": "docs: align release metadata notes with current interface",
+  "versionCode": 6,
+  "versionName": "0.1.5",
+  "apkUrl": "https://raw.githubusercontent.com/MarcosMesh/MESH-AI-RELEASES/main/releases/0.1.5/mesh-ai-0.1.5.apk",
+  "sha256": "203fa240f44f3e8e89f44e0f6d155ffae1448e9de24f68b056d2c1443177475e",
+  "releaseNotes": "build: upgrade Kotlin for LiteRT-LM compatibility",
   "minSupportedVersionCode": 1
 }
