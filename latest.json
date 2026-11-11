@@ -2,7 +2,7 @@
   "versionCode": 9,
   "versionName": "0.1.8",
   "apkUrl": "https://raw.githubusercontent.com/MarcosMesh/MESH-AI-RELEASES/main/releases/0.1.8/mesh-ai-0.1.8.apk",
-  "sha256": "4f5d2ea12af9d762e9c9c61b3bf9fdfbaf8209331fad4d9d26f7d3d7155fe0e3",
-  "releaseNotes": "docs: define offline-first architecture and voice requirements",
+  "sha256": "7e066b0c2ce557c058e6fbab2b7c3d3970c0498e8506713c4a407e9efe835eb3",
+  "releaseNotes": "docs: specify offline Portuguese voice model candidates",
   "minSupportedVersionCode": 1
 }
