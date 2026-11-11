@@ -2,7 +2,7 @@
   "versionCode": 11,
   "versionName": "0.1.10",
   "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.10/mesh-ai-0.1.10.apk",
-  "sha256": "52737850d4881fe631a711c36f49d282739e0a96b282d005ec79862ac5aa3b89",
-  "releaseNotes": "fix(release): publish APK with canonical asset filename",
+  "sha256": "bb60232a39146677e23c45ee0cb23f28cfaf43c42d9f17ead57cfa5cf49c9466",
+  "releaseNotes": "fix(updater): validate official GitHub release asset URLs",
   "minSupportedVersionCode": 1
 }
