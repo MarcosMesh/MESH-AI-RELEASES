@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "0.1.2",
-  "apkUrl": "https://raw.githubusercontent.com/MarcosMesh/MESH-AI-RELEASES/main/releases/0.1.2/mesh-ai-0.1.2.apk",
-  "sha256": "70c8230628beaa4b46d5dd3e9efd8a74f2936fc2a1fb325c5f987e4688edcf58",
-  "releaseNotes": "Interface simplificada, cabeçalho compacto, menu de configurações, notificações de atualização e controles reposicionados.",
+  "versionCode": 4,
+  "versionName": "0.1.3",
+  "apkUrl": "https://raw.githubusercontent.com/MarcosMesh/MESH-AI-RELEASES/main/releases/0.1.3/mesh-ai-0.1.3.apk",
+  "sha256": "03f0780b66640a434f41115362e3310b507e10ff56300ef421aea1b72e5ce1a7",
+  "releaseNotes": "fix: correct escaping in automatic release workflow",
   "minSupportedVersionCode": 1
 }
