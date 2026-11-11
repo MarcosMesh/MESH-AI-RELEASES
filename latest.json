@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "0.1.6",
-  "apkUrl": "https://raw.githubusercontent.com/MarcosMesh/MESH-AI-RELEASES/main/releases/0.1.6/mesh-ai-0.1.6.apk",
-  "sha256": "26cb6aef1d34e065a2b8ebea6b33e2b9c4c37e21fc88ae5040f769f5d6ac8929",
-  "releaseNotes": "feat(ai): add resumable Gemma 4 E2B model downloader",
+  "versionCode": 8,
+  "versionName": "0.1.7",
+  "apkUrl": "https://raw.githubusercontent.com/MarcosMesh/MESH-AI-RELEASES/main/releases/0.1.7/mesh-ai-0.1.7.apk",
+  "sha256": "cabb377b055fe32754685def5d5a8170bd78546a8fee8b1ad20baab1133448c3",
+  "releaseNotes": "feat(ai): add Gemma model setup and download dialog",
   "minSupportedVersionCode": 1
 }
