@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "0.1.8",
-  "apkUrl": "https://raw.githubusercontent.com/MarcosMesh/MESH-AI-RELEASES/main/releases/0.1.8/mesh-ai-0.1.8.apk",
-  "sha256": "7e066b0c2ce557c058e6fbab2b7c3d3970c0498e8506713c4a407e9efe835eb3",
-  "releaseNotes": "docs: specify offline Portuguese voice model candidates",
+  "versionCode": 10,
+  "versionName": "0.1.9",
+  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.9/mesh-ai-0.1.9.apk",
+  "sha256": "a79cdc76121f74bbef5dfb0e4fd9b8ddd1b259b321ad19673f50e2e33d1cd356",
+  "releaseNotes": "Fix production APK distribution using GitHub Release assets",
   "minSupportedVersionCode": 1
 }
