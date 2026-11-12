@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "0.1.14",
-  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.14/mesh-ai-0.1.14.apk",
-  "sha256": "c5ef382defd2cfc644f8f07c4c240de963e09fdb69b018bb25eb1abdf318c4bb",
-  "releaseNotes": "MESH AI 0.1.14 — corrigir medidor de voz e controles",
+  "versionCode": 16,
+  "versionName": "0.1.15",
+  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.15/mesh-ai-0.1.15.apk",
+  "sha256": "e9a3846a6b3c1546d85b9596cb5f718689e74759deca7ffe9f6ab3936c0fcfc7",
+  "releaseNotes": "MESH AI 0.1.15 — corrigir medidor de voz e posição do microfone",
   "minSupportedVersionCode": 1
 }
