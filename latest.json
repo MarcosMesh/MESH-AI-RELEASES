@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "0.1.17",
-  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.17/mesh-ai-0.1.17.apk",
-  "sha256": "be2a7ab9a9c0b3f982d888c3ddfe52e1134268fb1d63d14ea088a6dfe9e2c428",
-  "releaseNotes": "Add on-demand Brazilian Portuguese speech playback",
+  "versionCode": 19,
+  "versionName": "0.1.18",
+  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.18/mesh-ai-0.1.18.apk",
+  "sha256": "1fa1125b6443f7d6756790d19d5494a10d663eee97e7ad0731da526512f90376",
+  "releaseNotes": "Add offline Supertonic 3 neural voice playback",
   "minSupportedVersionCode": 1
 }
