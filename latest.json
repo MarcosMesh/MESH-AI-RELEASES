@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "0.1.11",
-  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.11/mesh-ai-0.1.11.apk",
-  "sha256": "681734968491eca57c1e2eaf4ab1356bcc3353868c4daebdf77c21af3df91065",
-  "releaseNotes": "MESH AI: conversas salvas e ciclo de vida do runtime",
+  "versionCode": 13,
+  "versionName": "0.1.12",
+  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.12/mesh-ai-0.1.12.apk",
+  "sha256": "f250669463220befca17fcceae9a69a336efe0e389fe212f3caa3996178b5a31",
+  "releaseNotes": "MESH AI 0.1.12 — reconhecimento de voz offline",
   "minSupportedVersionCode": 1
 }
