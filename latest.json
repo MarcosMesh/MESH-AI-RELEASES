@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "0.1.22",
-  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.22/mesh-ai-0.1.22.apk",
-  "sha256": "f6fff6a8540ae181a937334f959c0fa8cc4e6843a7da978f4686b8882e38568d",
-  "releaseNotes": "Add three offline speech engines and male/female voice catalogs",
+  "versionCode": 24,
+  "versionName": "0.1.23",
+  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.23/mesh-ai-0.1.23.apk",
+  "sha256": "72d70f10af6eccb9fc3746d0c18a015e067014caded4a45c46f41c9dd1fe74e3",
+  "releaseNotes": "Add offline configurable user voice commands (#15)",
   "minSupportedVersionCode": 1
 }
