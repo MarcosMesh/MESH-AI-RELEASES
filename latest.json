@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "0.1.10",
-  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.10/mesh-ai-0.1.10.apk",
-  "sha256": "bb60232a39146677e23c45ee0cb23f28cfaf43c42d9f17ead57cfa5cf49c9466",
-  "releaseNotes": "fix(updater): validate official GitHub release asset URLs",
+  "versionCode": 12,
+  "versionName": "0.1.11",
+  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.11/mesh-ai-0.1.11.apk",
+  "sha256": "681734968491eca57c1e2eaf4ab1356bcc3353868c4daebdf77c21af3df91065",
+  "releaseNotes": "MESH AI: conversas salvas e ciclo de vida do runtime",
   "minSupportedVersionCode": 1
 }
