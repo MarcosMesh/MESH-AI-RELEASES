@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "0.1.20",
-  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.20/mesh-ai-0.1.20.apk",
-  "sha256": "99af5b56af59ddd61adeeca3f85c365c95fadd6d593bd7a403f625989dc1feb4",
-  "releaseNotes": "Add user controls for neural voice speed and synthesis quality (#10)",
+  "versionCode": 22,
+  "versionName": "0.1.21",
+  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.21/mesh-ai-0.1.21.apk",
+  "sha256": "b1a47be8bab4df9f0491130afbbbaa5ba45aa0cfb4876bfd1cfb04d07888f048",
+  "releaseNotes": "Add central learning and guarded production release pipeline",
   "minSupportedVersionCode": 1
 }
