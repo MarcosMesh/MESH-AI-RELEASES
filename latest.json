@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "0.1.16",
-  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.16/mesh-ai-0.1.16.apk",
-  "sha256": "8d7e16053ae726c42b7825ac5d7d0eb7d5be38547ac973d444067bcfbfcee096",
-  "releaseNotes": "Improve voice microphone feedback and chat auto-scroll",
+  "versionCode": 18,
+  "versionName": "0.1.17",
+  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.17/mesh-ai-0.1.17.apk",
+  "sha256": "be2a7ab9a9c0b3f982d888c3ddfe52e1134268fb1d63d14ea088a6dfe9e2c428",
+  "releaseNotes": "Add on-demand Brazilian Portuguese speech playback",
   "minSupportedVersionCode": 1
 }
