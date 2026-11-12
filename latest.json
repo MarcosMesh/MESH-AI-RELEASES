@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "0.1.21",
-  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.21/mesh-ai-0.1.21.apk",
-  "sha256": "b1a47be8bab4df9f0491130afbbbaa5ba45aa0cfb4876bfd1cfb04d07888f048",
-  "releaseNotes": "Add central learning and guarded production release pipeline",
+  "versionCode": 23,
+  "versionName": "0.1.22",
+  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.22/mesh-ai-0.1.22.apk",
+  "sha256": "f6fff6a8540ae181a937334f959c0fa8cc4e6843a7da978f4686b8882e38568d",
+  "releaseNotes": "Add three offline speech engines and male/female voice catalogs",
   "minSupportedVersionCode": 1
 }
