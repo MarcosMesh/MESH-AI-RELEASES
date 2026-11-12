@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "0.1.19",
-  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.19/mesh-ai-0.1.19.apk",
-  "sha256": "f76c01cd22627f31b762d6aff2726b97e0bd66bbe9db4b0026aa7c55268698b1",
-  "releaseNotes": "Fix Supertonic playback crash and voice profile layout",
+  "versionCode": 21,
+  "versionName": "0.1.20",
+  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.20/mesh-ai-0.1.20.apk",
+  "sha256": "99af5b56af59ddd61adeeca3f85c365c95fadd6d593bd7a403f625989dc1feb4",
+  "releaseNotes": "Add user controls for neural voice speed and synthesis quality (#10)",
   "minSupportedVersionCode": 1
 }
