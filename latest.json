@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "0.1.24",
-  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.24/mesh-ai-0.1.24.apk",
-  "sha256": "5200de5567d3092d1f4acf2e4a44535389703466f009dbe15ab9b57d12ba8c0c",
-  "releaseNotes": "Add persistent contextual conversation memory",
+  "versionCode": 26,
+  "versionName": "0.1.25",
+  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.25/mesh-ai-0.1.25.apk",
+  "sha256": "53d5f47ada14b2049bb389645a63482eacf11c29fc8ed7f4e2df7785c2bb2c19",
+  "releaseNotes": "Add Gemma model selector and encrypted portable backup",
   "minSupportedVersionCode": 1
 }
