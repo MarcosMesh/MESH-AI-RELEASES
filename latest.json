@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "0.1.26",
-  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.26/mesh-ai-0.1.26.apk",
-  "sha256": "af80fd90822fe35d1b661abe898292b14c95dd503394114f9aadac70a0d7766f",
-  "releaseNotes": "Fix saved conversation memory restoration and refresh (#19)",
+  "versionCode": 28,
+  "versionName": "0.1.27",
+  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.27/mesh-ai-0.1.27.apk",
+  "sha256": "3f50b68a34534c3c8d065495be6c983951b344972bd08054a88a708147b98589",
+  "releaseNotes": "Add learned knowledge management",
   "minSupportedVersionCode": 1
 }
