@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "0.1.23",
-  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.23/mesh-ai-0.1.23.apk",
-  "sha256": "72d70f10af6eccb9fc3746d0c18a015e067014caded4a45c46f41c9dd1fe74e3",
-  "releaseNotes": "Add offline configurable user voice commands (#15)",
+  "versionCode": 25,
+  "versionName": "0.1.24",
+  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.24/mesh-ai-0.1.24.apk",
+  "sha256": "5200de5567d3092d1f4acf2e4a44535389703466f009dbe15ab9b57d12ba8c0c",
+  "releaseNotes": "Add persistent contextual conversation memory",
   "minSupportedVersionCode": 1
 }
