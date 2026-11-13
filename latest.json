@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "0.1.28",
-  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.28/mesh-ai-0.1.28.apk",
-  "sha256": "fa9901982ff198dcfb3b55928a5b83d2030f43b24168b2a900f06f32f99f1ad6",
-  "releaseNotes": "fix(piper): stabilize offline voice installation",
+  "versionCode": 30,
+  "versionName": "0.1.29",
+  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.29/mesh-ai-0.1.29.apk",
+  "sha256": "70ea62d215695bc17bc3a6b03871e47c8bf86c16744b26ca3f0a3bb3031c7a9c",
+  "releaseNotes": "Fix Piper voice state recovery and add voice deletion (#22)",
   "minSupportedVersionCode": 1
 }
