@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "0.1.27",
-  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.27/mesh-ai-0.1.27.apk",
-  "sha256": "3f50b68a34534c3c8d065495be6c983951b344972bd08054a88a708147b98589",
-  "releaseNotes": "Add learned knowledge management",
+  "versionCode": 29,
+  "versionName": "0.1.28",
+  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.28/mesh-ai-0.1.28.apk",
+  "sha256": "fa9901982ff198dcfb3b55928a5b83d2030f43b24168b2a900f06f32f99f1ad6",
+  "releaseNotes": "fix(piper): stabilize offline voice installation",
   "minSupportedVersionCode": 1
 }
