@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "0.1.25",
-  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.25/mesh-ai-0.1.25.apk",
-  "sha256": "53d5f47ada14b2049bb389645a63482eacf11c29fc8ed7f4e2df7785c2bb2c19",
-  "releaseNotes": "Add Gemma model selector and encrypted portable backup",
+  "versionCode": 27,
+  "versionName": "0.1.26",
+  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.26/mesh-ai-0.1.26.apk",
+  "sha256": "af80fd90822fe35d1b661abe898292b14c95dd503394114f9aadac70a0d7766f",
+  "releaseNotes": "Fix saved conversation memory restoration and refresh (#19)",
   "minSupportedVersionCode": 1
 }
