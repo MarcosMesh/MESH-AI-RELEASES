@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "0.1.30",
-  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.30/mesh-ai-0.1.30.apk",
-  "sha256": "4b959d64ec4a8edd1bf1e50b711d40cbaf6d20c7dd511b0b3491778f62e729ce",
-  "releaseNotes": "ci: restore automatic production publishing on main",
+  "versionCode": 32,
+  "versionName": "0.1.31",
+  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.31/mesh-ai-0.1.31.apk",
+  "sha256": "9fa3188b9ff432923d2f1c32d495ff55a815caeef46fedbf00849552f8f6c146",
+  "releaseNotes": "ci: remove validation artifact upload from release",
   "minSupportedVersionCode": 1
 }
