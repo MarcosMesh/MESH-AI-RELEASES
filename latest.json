@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
-  "versionName": "0.1.32",
-  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.32/mesh-ai-0.1.32.apk",
-  "sha256": "7ae16fa2f5aecd370bab221bdfa620f5b89fa65ace02ddedec997d2062bd260a",
-  "releaseNotes": "docs: prepare MESH AI 0.1.32 production release",
+  "versionCode": 34,
+  "versionName": "0.1.33",
+  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.33/mesh-ai-0.1.33.apk",
+  "sha256": "336dc5c2582e002f3d8b81ec762fb9c6a45bea73712d3ce6b1af34eb468626bc",
+  "releaseNotes": "fix: correct Pocket TTS bundled reference extraction syntax",
   "minSupportedVersionCode": 1
 }
