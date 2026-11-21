@@ -1,8 +1,8 @@
 {
-  "versionCode": 36,
-  "versionName": "0.1.35",
-  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.35/mesh-ai-0.1.35.apk",
-  "sha256": "2f1f074dbd79fe89c433e7aeec8cda6f07f6e0887ebd81cdf9c1fb74b68120c7",
-  "releaseNotes": "docs: prepare Pocket TTS canonical WAV reference fix",
+  "versionCode": 37,
+  "versionName": "0.1.36",
+  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.36/mesh-ai-0.1.36.apk",
+  "sha256": "c034595f67e470248ac20549770037fb0d5612ff81d735e6347e0d041ca0042a",
+  "releaseNotes": "Release MESH AI 0.1.36 — motores de voz pt-BR",
   "minSupportedVersionCode": 1
 }
