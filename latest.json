@@ -1,8 +1,8 @@
 {
-  "versionCode": 38,
-  "versionName": "0.1.37",
-  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.37/mesh-ai-0.1.37.apk",
-  "sha256": "29b61b9768e5ad3b229ec2794e672d13f9551184dbb4a153c131b1111c937d38",
-  "releaseNotes": "Release MESH AI 0.1.37: remove Piper and reduce APK size",
+  "versionCode": 39,
+  "versionName": "0.1.38",
+  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.38/mesh-ai-0.1.38.apk",
+  "sha256": "65cabcd07a707b28c39e0111a56c2f17a5493f8ba0a38ded09288ca4b7e36f51",
+  "releaseNotes": "Improve Supertonic playback with bounded audio prebuffer (#26)",
   "minSupportedVersionCode": 1
 }
