@@ -1,8 +1,8 @@
 {
-  "versionCode": 37,
-  "versionName": "0.1.36",
-  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.36/mesh-ai-0.1.36.apk",
-  "sha256": "c034595f67e470248ac20549770037fb0d5612ff81d735e6347e0d041ca0042a",
-  "releaseNotes": "Release MESH AI 0.1.36 — motores de voz pt-BR",
+  "versionCode": 38,
+  "versionName": "0.1.37",
+  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.37/mesh-ai-0.1.37.apk",
+  "sha256": "29b61b9768e5ad3b229ec2794e672d13f9551184dbb4a153c131b1111c937d38",
+  "releaseNotes": "Release MESH AI 0.1.37: remove Piper and reduce APK size",
   "minSupportedVersionCode": 1
 }
