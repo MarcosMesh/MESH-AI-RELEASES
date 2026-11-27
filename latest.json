@@ -1,8 +1,8 @@
 {
-  "versionCode": 40,
-  "versionName": "0.1.39",
-  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.39/mesh-ai-0.1.39.apk",
-  "sha256": "24c0b3a9327c6c15ea37ca35fa05e612dbf27081984b18768bd76a1841a8fbf1",
-  "releaseNotes": "Keep only Supertonic and Android TTS playback engines",
+  "versionCode": 41,
+  "versionName": "0.1.40",
+  "apkUrl": "https://github.com/MarcosMesh/MESH-AI-RELEASES/releases/download/v0.1.40/mesh-ai-0.1.40.apk",
+  "sha256": "e176ad87b63b8c4de35e9d4c8bdae38195fe15afb35e8412aedd87c06a88d1dd",
+  "releaseNotes": "Integrar reconhecimento de voz offline para a 0.1.40 (#28)",
   "minSupportedVersionCode": 1
 }
